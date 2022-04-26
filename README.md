@@ -7,6 +7,8 @@ Thank you so much for the patience and all the help!
 `npm install` will install all dependencies.\
 `npm start` will run on port 3000.
 
+You Need to run the [Back-End](https://github.com/jmsenorino/drixit-challenge-back) as well!
+
 ## Implemented Libraries:
 
 ### Axios
