@@ -1,0 +1,40 @@
+.login-box {
+  background-color: rgba(170, 170, 170, 0.9);
+  border-radius: 6px;
+  padding: 3px;
+  flex-direction: column;
+  width: 20vw;
+  justify-content: center;
+  align-items: center;
+  min-width: 250px;
+}
+
+.login-logo {
+  height: 150px;
+  width: 150px;
+  margin: 20px 0 40px;
+}
+
+.login-box__email {
+  width: 100%;
+}
+
+.login-box__password {
+  width: 100%;
+  /* display: none; */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-items: center;
+}
+
+form button {
+  width: 30%;
+  align-self: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-width: 80px;
+}

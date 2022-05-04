@@ -1,0 +1,42 @@
+.data-card {
+  min-width: 50vw;
+  background-color: rgba(200, 200, 200, 0.8);
+  border-radius: 6px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.app-child {
+  min-width: 50vw;
+}
+
+img {
+  height: 10vw;
+  width: 10vw;
+}
+
+.user-info h2 {
+  font-size: 25px;
+}
+
+.user-info div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.user-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 40%;
+}
+
+.user-info div p {
+  margin: 0px;
+}
+
+.data-card button {
+  align-self: flex-end;
+}
